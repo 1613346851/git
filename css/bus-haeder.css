@@ -1,0 +1,36 @@
+.bus-haeder{
+    height: 100px;
+    border-top: 5px solid rgb(255, 225, 0);
+    border-bottom: 0px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    padding-top: 0;
+    box-shadow: 0px 0px 10px #d0d0d0;
+}
+.bus-haeder-left{
+    width: 50%;
+    padding-left: 10px;
+}
+.bus-haeder-right{
+    right: 0px;
+    width:50% ;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.out{
+    font-size: 15px;
+    text-decoration: none;
+}
+.bus-haeder-left{
+    display: flex;
+}
+.log{
+    height: 50px;
+    padding-right: 40px;
+    border-right: 2px solid;
+}
+.guanli{
+    padding-left: 10px;
+}

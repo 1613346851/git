@@ -1,0 +1,35 @@
+.sj{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-top: 40px;
+    box-shadow: 0px 0px 10px #d0d0d0;
+    padding: 20px;
+}
+.sj .a{
+    width: 950px;
+    height: 200px;
+    margin: auto;
+    margin-top: 40px;
+    padding-left: 25px;
+}
+.sj .aa{
+    float: left;
+    width: 250px;
+    height: 150px;
+    background-color: rgba(57, 188, 235, 0.247);
+    border-radius: 30px;
+    padding: 20px;
+    margin-right: 25px;
+}
+.sj .aa .b{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.sj .aa span{
+    margin: 50px;
+    font-size: 60px;
+    color: #00aeec;
+}
